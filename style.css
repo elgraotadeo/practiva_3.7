@@ -1,0 +1,12 @@
+body{
+    background: linear-gradient(216deg,lightblue, rgb(255, 185, 56), lightpink, lightgreen);
+    height: 100vh;
+    width: 100%;
+}
+
+#div_center{
+    background-color: white;
+    border-radius: 5px;
+    padding:4px;
+    width: 500px;
+}
